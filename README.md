@@ -8,5 +8,5 @@
  in the fithb part we learn how to build an API with javascript (Express)
  
  
- by the end of this tutorial you should be able to understand , use and create your own APIs
+ by the end of this tutorial you should be able to understand , use and create your own APIs!
  
