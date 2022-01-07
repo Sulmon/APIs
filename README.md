@@ -13,8 +13,5 @@
  see you throught  the course! :)
  this is  another change
  yet another change
-<<<<<<< HEAD
 changes only made on feature branch
-=======
  this line should create conflict
->>>>>>> bb2ab1d (latest change in master to create conflict)
