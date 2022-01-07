@@ -13,4 +13,8 @@
  see you throught  the course! :)
  this is  another change
  yet another change
+<<<<<<< HEAD
 changes only made on feature branch
+=======
+ this line should create conflict
+>>>>>>> master
